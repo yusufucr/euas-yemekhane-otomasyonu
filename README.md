@@ -27,5 +27,13 @@ C# (WinForms)
 MSSQL Veritabanı
 
 
+![acilis_ekrani](https://github.com/user-attachments/assets/70394c1b-ccc9-43df-b639-f5721cd16335)
+![capture_20240917211424974](https://github.com/user-attachments/assets/0702911e-5435-48a6-bc1f-6263ec69a59a)
+![capture_20240917211038302](https://github.com/user-attachments/assets/53b22c30-264d-443b-b7c4-f4937d955288)
+![capture_20240917211007577](https://github.com/user-attachments/assets/7bb1eb96-77a3-416f-aa13-6861969f7be0)
+
+![capture_20240918170545124](https://github.com/user-attachments/assets/de5173de-12a9-4ee1-b7ee-9c0f3edc29ad)
+
+
 
 
